@@ -12,7 +12,7 @@ On this program you can use Gitpod browser https://www.gitpod.io/  or Visual Stu
 1. Inside the gitpod in the terminal type: npm i
 2. Open two additional terminals in your VS code
 3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.jsnpm
+4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
 # Authors
